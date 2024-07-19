@@ -2,13 +2,8 @@
 ![Modrinth Game Versions](https://img.shields.io/modrinth/game-versions/waterplayer?label=Minecraft%20Support&style=flat-square)
 ![Modrinth Followers](https://img.shields.io/modrinth/followers/waterplayer?label=Modrinth%20Followers&style=flat-square)
 ![GitHub all releases](https://img.shields.io/github/downloads/simply-kel/WaterPlayer/total?color=blue&label=GitHub%20Downloads&style=flat-square)
-![GitHub](https://img.shields.io/github/license/simply-kel/WaterPlayer?color=blue&label=License&style=flat-square)
 <br>
 🎶 Internet music player built into the client 
-
-[![alinlib](https://kelcuprum.ru/ass/budge/alinlib/requires/cozy_vector.svg)](/mod/alinlib)
-![fabric](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg)
-![quilt](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/quilt_vector.svg)
 
 [![youtube](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/social/youtube-plural_vector.svg)](https://youtube.com)
 [![twitch](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/social/twitch-plural_vector.svg)](https://twitch.tv)
