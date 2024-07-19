@@ -1,7 +1,7 @@
 #### {"title": "Какие данные получает Кел?", "ignoreList": false, "hideContact": false}
 # Какие данные получает Кел?
 
-<p><a href="/data/en" class="actionlink"><i></i>English version</a></p>
+<p><a href="/data/en_us" class="actionlink"><i></i>English version</a></p>
 
 В данном посте рассматривается использование официального API, которое требует лицензию игры
 
