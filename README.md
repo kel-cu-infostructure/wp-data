@@ -30,7 +30,6 @@
 * HTTP(s) links
     * MP3
     * FLAC
-    * MP3
     * Matroska/WebM (AAC, Opus or Vorbis codecs)
     * MP4/M4A (AAC codec)
     * OGG streams (Opus, Vorbis and FLAC codecs)
