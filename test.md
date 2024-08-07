@@ -82,7 +82,7 @@ Hello, | world | !
 
 <hr>
 
-![angrycat.gif](https://cdn.kelcuprum.ru/emote/angrycat.gif)
+![angrycat.gif](https://cdn.kelcuprum.ru/other/emote/angrycat.gif)
 
 # 1
 ## 2
