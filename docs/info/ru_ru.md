@@ -1,4 +1,5 @@
 # Список условий для публикации плейлистов
+<h3 style="color: #d03b18; font-style: italic;">/ List of conditions for publishing playlists /</h3>
 Здесь упоминается основном основная библиотека WaterPlayer по адресу https://waterplayer.ru/playlists
 
 ### Условия для публикации в публичную библиотеку

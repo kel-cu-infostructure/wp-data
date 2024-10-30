@@ -1,4 +1,6 @@
 # Documentation
+<h3 style="color: #d03b18; font-style: italic;">/ Документация /</h3>
+
 > [Русская версия](./ru_ru)
 
 Here is a list of materials that may help you with some of your problems
